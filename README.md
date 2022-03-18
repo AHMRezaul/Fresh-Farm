@@ -5,6 +5,14 @@ The shop displays different commodities and their quantities available along wit
 
 The website loads all the data dynamically from a JSON file and the local server hosts the website on port 8000.
 
+## Screenshots
+
+![](https://github.com/AHMRezaul/Fresh-Farm/blob/main/captured4.png)
+![](https://github.com/AHMRezaul/Fresh-Farm/blob/main/captured3.png)
+![](https://github.com/AHMRezaul/Fresh-Farm/blob/main/captured2.png)
+![](https://github.com/AHMRezaul/Fresh-Farm/blob/main/captured1.png)
+
+
 ## Tools Used:
   1. HTML/CSS
   2. Node JS
