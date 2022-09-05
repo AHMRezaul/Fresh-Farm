@@ -19,6 +19,10 @@ The website loads all the data dynamically from a JSON file and the local server
   3. JSON
 
 ## How to run:
-Download the package and use command "nodemon index.js" from the terminal to start the server.
+Download the package and use command 
+```
+nodemon index.js 
+```
+from the terminal to start the server.
 
 Open any browser and go to the link- "127.0.0.1:8000/overview"
